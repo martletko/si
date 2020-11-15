@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\strig\source\repos\спиралим\спиралим\Source.cpp(27,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\strig\source\repos\спиралим\спиралим\Source.cpp(40,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  спиралим.vcxproj -> C:\Users\strig\source\repos\спиралим\Debug\спиралим.exe
