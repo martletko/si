@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\strig\source\repos\chern_lb4\chern_lb4\Source.cpp(11,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\strig\source\repos\chern_lb4\chern_lb4\Source.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\strig\source\repos\chern_lb4\chern_lb4\Source.cpp(260): warning C4715: foo: значение возвращается не при всех путях выполнения
+  chern_lb4.vcxproj -> C:\Users\strig\source\repos\chern_lb4\Debug\chern_lb4.exe
